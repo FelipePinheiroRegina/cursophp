@@ -1,2 +1,7 @@
-# cursophp
- Curso de PHP ministrado pelo meu querido professor Gustavo Guanabara, abordando todos os conceitos da linguagem, com muitos exercícios
+# Curso de 🟣PHP Moderno🔵
+ Curso de PHP ministrado pelo meu querido professor Gustavo Guanabara, abordando todos os conceitos da linguagem, com muitos exercícios.
+
+ Introdução
+ - [Olá, Mundo!](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex00/index.php)
+ - [Dados do servidor](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex01/index.php)
+# GoodBye ✋
