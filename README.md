@@ -4,4 +4,5 @@
  Introdução
  - [Olá, Mundo!](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex00/index.php)
  - [Dados do servidor](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex01/index.php)
+ - [Testando tags / data / hora](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex02/index.php)
 # GoodBye ✋
