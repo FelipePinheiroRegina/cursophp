@@ -13,9 +13,7 @@
     
     <? 
         echo "<p>Felipe Pinheiro, (short open tag)</p>";
-    
     ?> 
-    <br>
     
     <?php echo "<p>Felipe Pinheiro</p>" ?>   <!-- Tag Version long !--> 
     <?= "Felipe Pinheiro, (short tag php)" ?> <!-- Tag Version short !--> 
