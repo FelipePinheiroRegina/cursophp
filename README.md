@@ -6,4 +6,5 @@
  - [Dados do servidor](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex01/index.php)
  - [Testando tags / data / hora](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex02/index.php)
  - [Variáveis e Constantes](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex03/index.php)
+ - [Tipos Primitivos](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex04/index.php)
 # GoodBye ✋
