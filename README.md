@@ -9,4 +9,5 @@
  - [Tipos Primitivos](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex04/index.php)
  - [Strings em PHP](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex05/index.php)
  - [Formulários](https://github.com/FelipePinheiroRegina/cursophp/commit/0d437f6a15df9cb627f2351cb419c9c66f61a621#diff-f7cb2e81de23ca14c0d6ed81c865d635a67f225eaf57721635c7dd00608e10df)
+ - [Operadores aritméticos](https://github.com/FelipePinheiroRegina/cursophp/blob/main/ex07/index.php)
 # GoodBye ✋
