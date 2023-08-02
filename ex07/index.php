@@ -29,7 +29,12 @@
             echo "<p> \"2\" . \"2\" com o operador de . é igual á $conc do tipo str. Pois agora sim ele está concatenando as strings. </p>";
             print "<hr>";
             
-            echo "<p>+ = Soma</p> <p>- = Subtração</p> <p>* = Multiplicação</p> <p>/ = Divisão</p> <p>% = Resto da divisão</p> <p>** = Exponênciação</p>"; // O operador de Exponênciação, só funciona á partir do PHP 5.6
+            echo "<p> + = Soma </p> 
+                  <p> - = Subtração </p> 
+                  <p> * = Multiplicação </p> 
+                  <p> / = Divisão </p> 
+                  <p> % = Resto da divisão </p> 
+                  <p> ** = Exponênciação </p>"; // O operador de Exponênciação, só funciona á partir do PHP 5.6
         ?>
     
     </main>
