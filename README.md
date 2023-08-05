@@ -2,15 +2,15 @@
  Curso de PHP ministrado pelo meu querido professor Gustavo Guanabara, abordando todos os conceitos da linguagem, com muitos exercícios.
 
  ### Exercícios
- - [Olá, Mundo!](https://github.com/FelipePinheiroRegina/cursophp/tree/main/ex00/index.php)
- - [Dados do servidor](https://github.com/FelipePinheiroRegina/cursophp/tree/main/ex01/index.php)
- - [Testando tags / data / hora](https://github.com/FelipePinheiroRegina/cursophp/tree/main/ex02/index.php)
- - [Variáveis e Constantes](https://github.com/FelipePinheiroRegina/cursophp/tree/main/ex03/index.php)
- - [Tipos Primitivos](https://github.com/FelipePinheiroRegina/cursophp/tree/main/ex04/index.php)
- - [Strings em PHP](https://github.com/FelipePinheiroRegina/cursophp/tree/main/ex05/index.php)
+ - [Olá, Mundo!](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex00/index.php)
+ - [Dados do servidor](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex01/index.php)
+ - [Testando tags / data / hora](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex02/index.php)
+ - [Variáveis e Constantes](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex03/index.php)
+ - [Tipos Primitivos](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex04/index.php)
+ - [Strings em PHP](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex05/index.php)
  - [Formulários](https://github.com/FelipePinheiroRegina/cursophp/tree/main/exercicios/ex06)
- - [Operadores aritméticos](https://github.com/FelipePinheiroRegina/cursophp/tree/main/ex07/index.php)
- - [Ordem de precedência](https://github.com/FelipePinheiroRegina/cursophp/tree/main/ex08/index.php)
+ - [Operadores aritméticos](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex07/index.php)
+ - [Ordem de precedência](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex08/index.php)
  - [Funções aritméticas](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex09/index.php)
 
  ### Desafios
