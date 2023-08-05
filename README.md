@@ -16,4 +16,5 @@
  ### Desafios
  - [Antecessor / Sucessor, com formulários](https://github.com/FelipePinheiroRegina/cursophp/tree/main/desafios/d001)
  - [Sorteando um número](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d002/index.php)
+ - [Conversor de Moedas](https://github.com/FelipePinheiroRegina/cursophp/tree/main/desafios/d003)
 # GoodBye ✋
