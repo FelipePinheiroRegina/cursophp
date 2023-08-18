@@ -13,6 +13,7 @@
  - [Ordem de precedência](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex08/index.php)
  - [Funções aritméticas](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex09/index.php)
  - [Super Globais](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex10/superglobais.php)
+ - [Formulários Retroalimentados](https://github.com/FelipePinheiroRegina/cursophp/blob/main/exercicios/ex11/index.php)
 
  ### Desafios
  - [Antecessor / Sucessor, com formulários](https://github.com/FelipePinheiroRegina/cursophp/tree/main/desafios/d001)
