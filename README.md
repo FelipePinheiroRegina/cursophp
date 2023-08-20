@@ -22,4 +22,5 @@
  - [Conversor de Moedas 2v0, consumindo dados de uma API](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d004/resposta.php)
  - [Analisador Real](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d005/numero.php)
  - [Anatomia de uma Divisão](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d006/index.php)
+ - [Salário Mínimo](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d007/index.php)
 # GoodBye ✋
