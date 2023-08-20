@@ -23,4 +23,5 @@
  - [Analisador Real](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d005/numero.php)
  - [Anatomia de uma Divisão](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d006/index.php)
  - [Salário Mínimo](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d007/index.php)
+ - [Raízes, Quadrada e Cubica](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d008/index.php)
 # GoodBye ✋
