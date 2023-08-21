@@ -24,4 +24,5 @@
  - [Anatomia de uma Divisão](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d006/index.php)
  - [Salário Mínimo](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d007/index.php)
  - [Raízes, Quadrada e Cubica](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d008/index.php)
+ - [Médias, Aritmética e Ponderada](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d009/index.php)
 # GoodBye ✋
