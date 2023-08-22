@@ -25,4 +25,5 @@
  - [Salário Mínimo](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d007/index.php)
  - [Raízes, Quadrada e Cubica](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d008/index.php)
  - [Médias, Aritmética e Ponderada](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d009/index.php)
+ - [Idade Futura](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d010/index.php)
 # GoodBye ✋
