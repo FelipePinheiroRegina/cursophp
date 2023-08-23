@@ -27,4 +27,5 @@
  - [Médias, Aritmética e Ponderada](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d009/index.php)
  - [Idade Futura](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d010/index.php)
  - [Reajuste de Preço](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d011/index.php)
+ - [Calculadora de Tempo](https://github.com/FelipePinheiroRegina/cursophp/blob/main/desafios/d012/index.php)
 # GoodBye ✋
